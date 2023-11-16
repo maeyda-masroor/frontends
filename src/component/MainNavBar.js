@@ -1,4 +1,4 @@
-import react from 'react';
+
 import { useLocation } from 'react-router-dom';
 import PharmacyNavbar from './PharmacyNavbar';
 import HospitalNavbar from './HospitalNavbar';
