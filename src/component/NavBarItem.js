@@ -23,7 +23,7 @@ function Navbar(){
         <Link to ="/Inquiry" class="me-4 hover:underline md:me-6 ">Inquiry</Link>
     </li>
     <li>
-        <Link to ="/contact" class="me-4 hover:underline md:me-6">Contact</Link>
+        <Link to ="/contactUs" class="me-4 hover:underline md:me-6">Contact</Link>
     </li>
 </ul>
     </div>

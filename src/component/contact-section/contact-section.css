@@ -1,0 +1,18 @@
+.contact-section {
+  background-color: var(--white);
+  width: 50%;
+  
+}
+
+@media screen {
+  .contact-section {
+    display: grid;
+    grid-template-columns: 3fr 1.5fr;
+    width: 100%;
+    height: auto;;
+    padding-bottom: 12px;
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+}

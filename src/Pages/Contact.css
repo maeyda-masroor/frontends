@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Nunito Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  height: auto;
+  width: 100%;
+  overflow: hidden;
+  
+}
+.ContactSection{
+  width: 100%;
+  overflow: hidden;
+}
+:root {
+  --main-blue: #945609;
+  --main-green: #945609;
+  --white: #ffffff;
+}
+.Map{
+  width: 250px;
+  height: 250px;
+}
