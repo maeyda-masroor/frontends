@@ -1,28 +1,29 @@
+import { Link } from "react-router-dom";
 function Navbar(){
 
     return (
     <div className="bg-orange-900 h-10 w-full">
 <ul class="flex flex-wrap items-center justify-center text-black dark:text-white">
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6 ">Home </a>
+        <Link to="#" class="me-4 hover:underline md:me-6 ">Home </Link>
     </li>
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6">About Us</a>
+        <Link to ="#" class="me-4 hover:underline md:me-6">About Us</Link>
     </li>
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6 ">Facilities</a>
+        <Link to ="#" class="me-4 hover:underline md:me-6 ">Facilities</Link>
     </li>
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6">CME</a>
+        <Link to ="#" class="me-4 hover:underline md:me-6">CME</Link>
     </li>
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6">Consultants</a>
+        <Link to ="#" class="me-4 hover:underline md:me-6">Consultants</Link>
     </li>
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6 ">Inquiry</a>
+        <Link to ="#" class="me-4 hover:underline md:me-6 ">Inquiry</Link>
     </li>
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6">Contact</a>
+        <Link to ="#" class="me-4 hover:underline md:me-6">Contact</Link>
     </li>
 </ul>
     </div>
