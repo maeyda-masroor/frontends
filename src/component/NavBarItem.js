@@ -8,22 +8,22 @@ function Navbar(){
         <Link to="/" class="me-4 hover:underline md:me-6 ">Home </Link>
     </li>
     <li>
-        <Link to ="#" class="me-4 hover:underline md:me-6">About Us</Link>
+        <Link to ="/aboutUs" class="me-4 hover:underline md:me-6">About Us</Link>
     </li>
     <li>
-        <Link to ="#" class="me-4 hover:underline md:me-6 ">Facilities</Link>
+        <Link to ="/facilities" class="me-4 hover:underline md:me-6 ">Facilities</Link>
     </li>
     <li>
-        <Link to ="#" class="me-4 hover:underline md:me-6">CME</Link>
+        <Link to ="/CME" class="me-4 hover:underline md:me-6">CME</Link>
     </li>
     <li>
-        <Link to ="#" class="me-4 hover:underline md:me-6">Consultants</Link>
+        <Link to ="/Consultant" class="me-4 hover:underline md:me-6">Consultants</Link>
     </li>
     <li>
-        <Link to ="#" class="me-4 hover:underline md:me-6 ">Inquiry</Link>
+        <Link to ="/Inquiry" class="me-4 hover:underline md:me-6 ">Inquiry</Link>
     </li>
     <li>
-        <Link to ="#" class="me-4 hover:underline md:me-6">Contact</Link>
+        <Link to ="/contact" class="me-4 hover:underline md:me-6">Contact</Link>
     </li>
 </ul>
     </div>
