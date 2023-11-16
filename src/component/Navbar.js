@@ -1,19 +1,20 @@
+import {Link} from 'react-router-dom';
 function Navbar(){
 
     return (
     <div className="bg-amber-100 h-10 w-full">
 <ul class="flex flex-wrap items-center justify-center text-black dark:text-black">
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6 ">In Urdu </a>
+        <Link to="#" class="me-4 hover:underline md:me-6 ">In Urdu </Link>
     </li>
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6">Print Page</a>
+        <Link to="#" class="me-4 hover:underline md:me-6">Print Page</Link>
     </li>
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6 ">Site Map</a>
+        <Link to="#" class="me-4 hover:underline md:me-6 ">Site Map</Link>
     </li>
     <li>
-        <a href="#" class="me-4 hover:underline md:me-6">Help</a>
+        <Link to ="#" class="me-4 hover:underline md:me-6">Help</Link>
     </li>
 </ul>
     </div>

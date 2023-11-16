@@ -60,15 +60,15 @@ function FooterHospital(){
         <p class="text-sm text-white">© Copyright 2023 Company. All rights reserved.</p>
         <ul class="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
             <li>
-                <a href="#"
+                <Link to="#"
                     class="text-sm text-white transition-colors duration-300 hover:text-deep-purple-accent-400">Privacy
                     &amp; Cookies Policy
-                </a>
+                </Link>
             </li>
             <li>
-                <a href="#"
+                <Link to="#"
                     class="text-sm text-white transition-colors duration-300 hover:text-deep-purple-accent-400">Disclaimer
-                </a>
+                </Link>
             </li>
         </ul>
     </div>
