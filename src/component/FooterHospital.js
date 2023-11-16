@@ -30,7 +30,7 @@ function FooterHospital(){
             <Link to ="#" className="text-white">Training and Development </Link>
             <Link to = "#" className="text-white">Photo Gallery</Link>      
             <p class="text-base font-bold tracking-wide text-white">Link</p>
-            <Link to ="#" className="text-white">Pharmacists</Link>
+            <Link to ="#" className="text-white">E-Pharmacy</Link>
             <Link to ="#" className="text-white"></Link>
             <Link to ="#" className="text-white"></Link>
         </div>

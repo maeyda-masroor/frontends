@@ -11,8 +11,6 @@ function NavigationBar(){
         <Navbar/>
         <LogoNavBar/>
         <NavbarItem/>
-        <SectionIntro/>
-        <FooterHospital/>
     </div>
     )
 }

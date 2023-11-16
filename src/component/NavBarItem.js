@@ -5,7 +5,7 @@ function Navbar(){
     <div className="bg-orange-900 h-10 w-full">
 <ul class="flex flex-wrap items-center justify-center text-black dark:text-white">
     <li>
-        <Link to="#" class="me-4 hover:underline md:me-6 ">Home </Link>
+        <Link to="/" class="me-4 hover:underline md:me-6 ">Home </Link>
     </li>
     <li>
         <Link to ="#" class="me-4 hover:underline md:me-6">About Us</Link>
