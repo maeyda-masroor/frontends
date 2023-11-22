@@ -14,7 +14,7 @@ function NoPage (){
                   Oops! That page can’t be found
                 </h4>
                 <p className="mb-8 text-lg text-amber-900">
-                  The page you are looking for it maybe deleted
+                  The page you are looking for it maybe deleted or isn't available
                 </p>
                 <Link 
                   to="/"

@@ -4,7 +4,7 @@ import PharmacyNavbar from './PharmacyNavbar';
 import HospitalNavbar from './HospitalNavbar';
 function MainNavigationbar() {
    const location = useLocation();
-   if(location.pathname==='/FAQ' || location.pathname==='/aboutpharmacy' || location.pathname==='/homepharmacy'){
+   if(location.pathname==='/epharmacy' || location.pathname==='/aboutpharmacy' || location.pathname==='/homepharmacy'){
       return(
             <PharmacyNavbar/>
       )}

@@ -23,14 +23,14 @@ function FooterHospital(){
         <div class="flex flex-col gap-2 text-sm">
             <p class="text-base font-bold tracking-wide text-white">Popular Links</p>
             <Link to="/RC_member" className="text-white">Become a RC members</Link>
-            <Link to="#" className="text-white">Health Clinic</Link>
+            <Link to="/health_clinic" className="text-white">Health Clinic</Link>
             <Link to ="#" className="text-white">Panel List</Link>
             <Link to ="#" className="text-white">Health Advice</Link> 
 
-            <Link to ="#" className="text-white">Training and Development </Link>
-            <Link to = "#" className="text-white">Photo Gallery</Link>      
+            <Link to ="/Training_and_development" className="text-white">Training and Development </Link>
+            <Link to = "/PhotoGallery" className="text-white">Photo Gallery</Link>      
             <p class="text-base font-bold tracking-wide text-white">Link</p>
-            <Link to ="#" className="text-white">E-Pharmacy</Link>
+            <Link to ="/epharmacy" className="text-white">E-Pharmacy</Link>
             <Link to ="#" className="text-white"></Link>
             <Link to ="#" className="text-white"></Link>
         </div>
