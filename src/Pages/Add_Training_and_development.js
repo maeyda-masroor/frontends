@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import ReactQuill from 'react-quill';
-//import 'react-quill/dist/quill.snow.css';
+import '../Pages/quill.snow.css';
 import axios from 'axios';
 import swal from 'sweetalert';
 export default function Add_training_and_development() {
