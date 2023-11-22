@@ -28,6 +28,9 @@ function Navbar(){
     <li>
         <Link to ="/FAQ" className="me-4 hover:underline md:me-6">FAQ</Link>
     </li>
+    <li>
+        <Link to ="/OurTeam" className="me-4 hover:underline md:me-6">Our Team</Link>
+    </li>
 </ul>
     </div>
     )
